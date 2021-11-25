@@ -1,8 +1,8 @@
 - Belajar html
 - java
+  ^ if else
 - javasript
   ^ react
-  ^ mysql
 - css
   ^ menambahkan table
   ^ menambahkan color
