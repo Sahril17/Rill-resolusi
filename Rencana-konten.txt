@@ -1,5 +1,9 @@
 - Belajar html
 - java
 - javasript
+  ^ react
+  ^ mysql
 - css
+  ^ menambahkan table
+  ^ menambahkan color
 - phyton
