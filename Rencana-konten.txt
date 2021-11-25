@@ -3,6 +3,7 @@
   ^ if else
 - javasript
   ^ react
-  ^ vue
 - css
+  ^ menambahkan table
+  ^ menambahkan color
 - phyton
